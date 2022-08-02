@@ -1,0 +1,1 @@
+# ssg-alx-2-nuxt
